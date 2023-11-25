@@ -2,6 +2,7 @@
   display = flex;
   justify-content: end;
   align-items: end;
+  width: 80%;
 }
 
 /* nav & jmbotron */
