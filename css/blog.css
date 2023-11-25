@@ -1,6 +1,8 @@
-/* .instagram{
-  background-color: rgba(2, 67, 67, 0.5);
-} */
+.instagram i{
+  display = flex;
+  justify-content: end;
+  align-items: end;
+}
 
 /* nav & jmbotron */
 .navbar {
