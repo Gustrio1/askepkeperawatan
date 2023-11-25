@@ -21,6 +21,7 @@
   color: #18923f;
   transition: 0.3s color;
   opacity: 5;
+  width: 60%
 }
 
 .navbar-toggler {
